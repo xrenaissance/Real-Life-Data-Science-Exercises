@@ -382,6 +382,10 @@
           <style-rule element='worksheet'>
             <format attr='font-size' value='12' />
           </style-rule>
+          <style-rule element='refline'>
+            <format attr='fill-above' id='refline0' value='#00000000' />
+            <format attr='fill-below' id='refline0' value='#00000000' />
+          </style-rule>
         </style>
         <panes>
           <pane id='4'>
@@ -394,6 +398,7 @@
               <text column='[federated.0jvhfia1wd4z9916hxoul1snvk4f].[none:Exited:ok]' />
               <text column='[federated.0jvhfia1wd4z9916hxoul1snvk4f].[pcto:sum:Number of Records:qk:2]' />
             </encodings>
+            <reference-line axis-column='[federated.0jvhfia1wd4z9916hxoul1snvk4f].[pcto:sum:Number of Records:qk:2]' enable-instant-analytics='true' formula='constant' id='refline0' label-type='none' scope='per-table' value='0.20000000000000001' value-column='[federated.0jvhfia1wd4z9916hxoul1snvk4f].[pcto:sum:Number of Records:qk:2]' z-order='1' />
             <style>
               <style-rule element='mark'>
                 <format attr='mark-labels-cull' value='true' />
@@ -529,7 +534,7 @@
         <default-map-tool-selection tool='1' />
       </viewpoint>
     </window>
-    <window class='worksheet' name='Gender'>
+    <window class='worksheet' maximized='true' name='Gender'>
       <cards>
         <edge name='left'>
           <strip size='167'>
@@ -561,7 +566,7 @@
         </highlight>
       </viewpoint>
     </window>
-    <window class='worksheet' maximized='true' name='ExitPortion'>
+    <window class='worksheet' name='ExitPortion'>
       <cards>
         <edge name='left'>
           <strip size='160'>
