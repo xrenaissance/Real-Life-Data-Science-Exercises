@@ -1,0 +1,10 @@
+Tpes of Variables:
+
+Variables:
+	Categorical:
+		Nominal: e.g. Male, Female/ Red, Green, Black
+		Ordinal: e.g. Small, Medium, Large/ A, B, C(grades)
+	
+	Numeric:
+		Discrete: e.g. 1,2,3 businsess, 568 people,   aka there is no set between interval
+		Continuous: e.g. Age, Height there is always number between interval:w:w
