@@ -1,0 +1,11 @@
+www.evanmiller.org/ab-testing/chi-squared.html
+http://vassarstats.net/newcs.html
+
+Rules of Chi-Squared Test:
+1. Probability of independence
+2. Not the relationship between variables
+3. canot use %, need absolute values
+4. Categories must be mutually exclusive
+5. never exclude one of the outcomes
+6. minimu 5 observations in each cell
+
