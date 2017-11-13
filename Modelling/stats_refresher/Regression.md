@@ -12,7 +12,7 @@ y: Dependent variable (DV)
 $$
 x_1, x_2, x_3 ... x_n \ are \  Independent \  Variabls
 $$
-![simple_linear_regression](/Real-Life-Data-Science-Exercises/Modelling/stats_refresher/simple_linear_regression.png)
+![simple_linear_regression](simple_linear_regression.png)
 
 ### Multiple Linear Regression:
 
