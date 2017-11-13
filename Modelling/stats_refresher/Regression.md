@@ -32,7 +32,7 @@ $$
 
  ## Ordinary Least Squares
 
-![ordinary_least_squares](/Users/liyixuan1121/Documents/github/Real-Life-Data-Science-Exercises/Modelling/stats_refresher/ordinary_least_squares.png)
+![ordinary_least_squares](ordinary_least_squares.png)
 
 
 
