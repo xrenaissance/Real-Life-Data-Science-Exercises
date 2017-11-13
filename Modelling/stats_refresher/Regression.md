@@ -38,11 +38,25 @@ $$
 
 ## R Squared
 
-![r_squared](r_squared.png)basically R squared demonstrates how well your model fit for your data
+![r_squared](r_squared.png)
+
+basically R squared demonstrates how well your model fit for your data
 
 
 
 ## Adjusted R Squared
 
 ![adjusted_r_squared](adjusted_r_squared.png)
+
+ ![adjusted_r_squared_2](/Users/liyixuan1121/Documents/github/Real-Life-Data-Science-Exercises/Modelling/stats_refresher/adjusted_r_squared_2.png)
+
+p is the number of independent variables
+
+
+
+
+
+
+
+
 
