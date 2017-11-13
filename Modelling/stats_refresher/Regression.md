@@ -38,4 +38,11 @@ $$
 
 ## R Squared
 
-![r_squared](r_squared.png)
+![r_squared](r_squared.png)basically R squared demonstrates how well your model fit for your data
+
+
+
+## Adjusted R Squared
+
+![adjusted_r_squared](/Users/liyixuan1121/Documents/github/Real-Life-Data-Science-Exercises/Modelling/stats_refresher/adjusted_r_squared.png)
+
