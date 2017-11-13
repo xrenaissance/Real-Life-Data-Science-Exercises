@@ -48,7 +48,7 @@ basically R squared demonstrates how well your model fit for your data
 
 ![adjusted_r_squared](adjusted_r_squared.png)
 
- ![adjusted_r_squared_2](/Users/liyixuan1121/Documents/github/Real-Life-Data-Science-Exercises/Modelling/stats_refresher/adjusted_r_squared_2.png)
+ ![adjusted_r_squared_2](adjusted_r_squared_2.png)
 
 p is the number of independent variables
 
