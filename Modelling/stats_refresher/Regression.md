@@ -38,4 +38,4 @@ $$
 
 ## R Squared
 
-![r_squared](/Users/liyixuan1121/Documents/github/Real-Life-Data-Science-Exercises/Modelling/stats_refresher/r_squared.png)
+![r_squared](r_squared.png)
