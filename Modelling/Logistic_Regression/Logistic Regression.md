@@ -10,5 +10,5 @@
 
 ![false](Logistic_Regression/false.png)
 
-![false](/Users/liyixuan1121/Documents/github/Real-Life-Data-Science-Exercises/Modelling/Logistic_Regression/false.png)
+![false](false.png)
 
