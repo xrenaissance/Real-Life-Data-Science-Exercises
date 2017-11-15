@@ -8,4 +8,4 @@
 
 ![logistic_regression_4](logistic_regression_4.png)
 
-![false](/Users/liyixuan1121/Documents/github/Real-Life-Data-Science-Exercises/Modelling/Logistic_Regression/false.png)
+![false](Logistic_Regression/false.png)
