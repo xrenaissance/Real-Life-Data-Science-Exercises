@@ -8,5 +8,7 @@
 
 ![cap_analysis2](/Users/liyixuan1121/Documents/github/Real-Life-Data-Science-Exercises/Modelling/Assessing_Your_Model/cap_analysis2.png)
 
+![training_and_test_data_selection](/Users/liyixuan1121/Documents/github/Real-Life-Data-Science-Exercises/Modelling/Assessing_Your_Model/training_and_test_data_selection.png)
+
 
 
