@@ -1,0 +1,11 @@
+Churn Report,,,
+,Coefficient,Odds-ratio,p-Value
+const,_3.91258,,3.84E-61
+CreditScore,_0.000674866,0.9993,0.016044636
+Age,0.072655,1.0754,3.24E-175
+Tenure,_0.0158791,0.9842,0.0893
+NumOfProduct,_0.0950198,0.9094,0.0456
+IsActiveMember,_1.0757,0.341,1.01E-77
+Female,0.526721,1.6934,3.97E-22
+Germany,0.747595,2.1119,1.44E-30
+Log_Balance,0.0690263,1.0715,7.62E-07
